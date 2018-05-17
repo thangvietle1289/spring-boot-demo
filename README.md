@@ -1,1 +1,1 @@
-# spring-boot-mariadb-example
+# Spring boot + Postgres + Heroku
